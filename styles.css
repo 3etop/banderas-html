@@ -1,0 +1,133 @@
+body {background-color: white;}
+
+.contenedor-principal {
+    background-color: rgb(206, 198, 198);
+    width: 1180px;
+    height: 1180px;
+    border: black 5px;
+    margin: 0px auto;
+}
+
+.bandera {
+    background-color: #cccccc;
+    width: 500px;
+    height: 300px;
+    margin:20px;
+    float: left;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+/*Alemania*/
+.ale1 {
+    background-color: black;
+    height: 33.33%;   
+}
+.ale2 {
+    background-color: red;
+    height: 33.33%;   
+}
+.ale3 {
+    background-color: gold;
+    height: 33.33%;   
+}
+/*Francia*/
+.fra1 {
+    background-color: blue;
+    width: 33.33%;
+    height: 100%;
+    float: left;
+}
+.fra2 {
+    background-color: white;
+    width: 33.33%;
+    height: 100%;
+    float: left;
+}
+.fra3 {
+    background-color: red;
+    width: 33.33%;
+    height: 100%;
+    float: left;
+}
+/*España*/
+.spa1 {
+    background-color: red;
+    height: 25.00%;    
+}
+.spa2 {
+    background-color: gold;
+    height: 50.00%;    
+}
+.spa3 {
+    background-color: red;
+    height: 25%;   
+}
+/*Belgica*/
+.belg1 {
+    background-color: black;
+    width: 33.33%;
+    height: 100%;
+    float: left;
+}
+.belg2 {
+    background-color: gold;
+    width: 33.33%;
+    height: 100%;
+    float: left;
+}
+.belg3 {
+    background-color: red;
+    width: 33.33%;
+    height: 100%;
+    float: left;
+/*Emiratos-Arabes*/
+}
+.EmirAr1{
+    background-color: red;
+    width: 25%;
+    height: 100%;
+    float: left;
+}
+.EmirAr2 {
+    background-color: green;
+    float: left;
+    width: 75%;
+    height: 33.33%;
+}
+.EmirAr3 {
+    background-color: white;
+    float: left;
+    width: 75%;
+    height: 33.33%;   
+}
+.EmirAr4 {
+    background-color: black;
+    float: left;
+    width: 75%;
+    height: 33.33%;    
+}
+/*Canada*/
+.canada1 {
+    background-color: red;
+    width: 25%;
+    height: 100%;
+    float: left;
+}
+.canada2 {
+    background-color: white;
+    display: flex;
+    width: 50%;
+    height: 100%;
+    float: left;
+    justify-content: center;
+    align-items: center;
+}
+.canada3 {
+    background-color: red;
+    width: 25%;
+    height: 100%;
+    float: left;
+}
+.flor {
+
+}
